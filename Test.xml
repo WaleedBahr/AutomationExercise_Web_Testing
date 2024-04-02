@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Smoke Test">
+    <test  verbose="2" preserve-order="true" name="D:\software testing\TestAutomationProjects\automation_exercise_project\src\test">
+        <classes>
+            <class name = "AddToCart" />
+            <class name = "registerUser_TestCase" />
+            <class name = "ContactUsForm" />
+            <class name = "Register_Existingemail_TestCase" />
+            <class name = "Verfiy_LogOut_TestCase" />
+            <class name = "valid_logIn_TestCase" />
+            <class name = "AddToCartFromRecommended" />
+            <class name = "inValid_LogIn_TestCase" />
+            <class name = "search_TestCase" />
+            <class name = "product_Quantity" />
+        </classes>
+    </test>
+</suite>
