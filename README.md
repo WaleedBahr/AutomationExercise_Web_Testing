@@ -11,8 +11,6 @@
 ![Screenshot 2022-12-30 175750](https://user-images.githubusercontent.com/68038931/210089234-1480ed7c-8df4-4f30-9895-eb878cffabc8.png)
 
 - ### 📝 The main Frameworks included in the project:
-  **SHAFT Engine on the Top of:**
-  
   - Selenium Webdriver
   - TestNG
   - Allure Report
